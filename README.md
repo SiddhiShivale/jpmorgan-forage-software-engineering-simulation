@@ -10,7 +10,7 @@
 ---
 
 ## 📘 Overview
-This repository contains my completed tasks from the **J.P. Morgan Chase & Co. Software Engineering Job Simulation** hosted on **Forage**.  
+This repository contains my completed tasks from the **J.P. Morgan Chase & Co.'s Software Engineering Job Simulation** hosted on **Forage**.  
 
 ---
 
@@ -54,5 +54,5 @@ This project helped me strengthen my **backend development**, **integration**, a
 ---
 
 ## 🏅 Certificate
-📄 [View Certificate on Forage](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_E55ggCcniGSEwduHw_1761418538262_completion_certificate.pdf)  
+📄 [View Certificate](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_E55ggCcniGSEwduHw_1761418538262_completion_certificate.pdf)  
 
